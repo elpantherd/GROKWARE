@@ -1,6 +1,4 @@
 # GROKWARE: 
-Real-time sign language to speech and voice to text translation for inclusive communication.
-A sleek, innovative system featuring Grokband and Grokcom, Grokware effortlessly translates sign language into text and audio, while converting spoken words back to text—bridging the gap for seamless, universal connection.
 # Grokband and Grokcom
 
 This project consists of two proprietary devices: **Grokband** and **Grokcom**, designed for bidirectional communication through sign language and voice.
