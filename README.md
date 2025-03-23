@@ -1,4 +1,4 @@
-# GROKWARE
+# GROKWARE - bridging the gap for seamless, universal connection.
 # Grokband and Grokcom
 
 This project consists of two proprietary devices: **Grokband** and **Grokcom**, designed for bidirectional communication through sign language and voice.
