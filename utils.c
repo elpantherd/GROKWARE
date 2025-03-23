@@ -1,3 +1,5 @@
+Copyright (c) 2025 Team TECHSMITHS. All rights reserved.
+See the LICENSE file for terms of use.
 // utils.c
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
