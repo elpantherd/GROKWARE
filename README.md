@@ -78,4 +78,4 @@ Grokcom is a wall-mounted standalone device based on Raspberry Pi with a 5.7" TF
 This project is proprietary and not open source. Please see the [LICENSE](LICENSE) file for terms of use.
 
 ## Contact
-For support, contact TEAM TECHSMITHS at dthayalan760@gmail.com.
+For support, contact Team TECHSMITHS at dthayalan760@gmail.com.
