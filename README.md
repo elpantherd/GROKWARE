@@ -4,6 +4,9 @@ Bridging the gap for seamless, universal connection.
 
 This project consists of two proprietary devices: **Grokband** and **Grokcom**, designed for bidirectional communication through sign language and voice.
 
+![sys_arch](https://github.com/user-attachments/assets/a59cf046-9ad6-4e34-aa70-82ade2a22f99)
+
+
 ## Grokband
 
 Grokband is a wristband based on the ESP32 Pico D4 microcontroller. It features:
@@ -11,6 +14,8 @@ Grokband is a wristband based on the ESP32 Pico D4 microcontroller. It features:
 - A circular OLED display showing quick responses navigated via a PC311 rotary encoder.
 - An LED and vibration motor for feedback on received messages.
 - Converts sign language to text and communicates with Grokcom via MQTT.
+
+![grokband](https://github.com/user-attachments/assets/a5ab6ee2-d575-494f-a690-3df486bc33e1)
 
 ### Hardware Requirements
 - ESP32 Pico D4
@@ -43,6 +48,9 @@ Grokcom is a wall-mounted standalone device based on Raspberry Pi with a 5.7" TF
 - Displays text received from Grokband.
 - Converts received text to audio using Google Text-to-Speech.
 - Captures real-time audio, converts it to text, and sends it to Grokband via MQTT.
+
+![grokcom](https://github.com/user-attachments/assets/dcab1c5c-a360-4c33-af74-41fb7f227c8d)
+
 
 ### Hardware Requirements
 - Raspberry Pi (e.g., 4GB)
