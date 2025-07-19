@@ -1,0 +1,7 @@
+paho-mqtt
+PyQt5
+google-cloud-speech
+google-cloud-texttospeech
+pyaudio
+Pillow ( image manipulation for UI not covered by PyQt)
+RPi.GPIO (hardware buttons beyond touchscreen)
